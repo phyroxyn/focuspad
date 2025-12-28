@@ -36,11 +36,11 @@ QMK setup help:
 | Item | Qty | Notes / Part |
 |------|-----|--------------|
 | Seeed Studio XIAO RP2040 (through-hole) | 1 | Main MCU |
-| MX-style switches | 16 | 4×4 grid |
-| Keycaps | 16 | MX compatible |
+| MX-style switches | 12 | 4×4 grid, corners missing |
+| Keycaps | 12 | MX compatible |
 | Rotary encoder (EC11) | 1 | Right knob (rotary) |
 | Knob / button (no encoder pins) | 1 | Left knob (button only) |
-| Diodes (1N4148, through-hole) | 16 | Switch matrix |
+| Diodes (1N4148, through-hole) | 13 | Switch matrix+top bottom |
 | M3 heat-set inserts (M3×5×4) | 4 | Case mounting |
 | M3 screws | 4 | Case mounting |
 
