@@ -4,12 +4,13 @@ A compact 4x4 macropad designed for Windows productivity workflows (Fusion 360, 
 
 ## Render
 ![image alt](https://github.com/phyroxyn/focuspad/blob/e32d70f9403c526be76d4f2ef78d0408b3021f45/Assets/Focuspad_render.PNG) 
+![image alt](https://github.com/phyroxyn/focuspad/blob/c3db5a3a73ed4c919b3456386d061fa25b3f05f7/Assets/Makropad_v1_2025-Dec-28_03-27-13PM-000_CustomizedView38785409704%20(1).png)
 
 ## PCB
 ### Schematic
-
+![image alt](https://github.com/phyroxyn/focuspad/blob/c3db5a3a73ed4c919b3456386d061fa25b3f05f7/Assets/Schematic.png)
 ### PCB Layout
-
+![image alt](https://github.com/phyroxyn/focuspad/blob/c3db5a3a73ed4c919b3456386d061fa25b3f05f7/Assets/PCB.png)
 ## Case
 This case is 3D printed and designed to fit the PCB and a Seeed Studio XIAO RP2040 (through-hole).  
 
