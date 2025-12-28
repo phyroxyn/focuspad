@@ -14,21 +14,21 @@ A compact 4×4 macropad for Windows productivity workflows (Fusion 360, Bambu St
 
 ## Case
 The enclosure is designed as **five parts**:
-- **Top cover** (protects the PCB; acrylic would look great here).
-- **Base** (includes heat-set insert holes to mount the PCB and top cover).
-- **Side cover** (hides the PCB edges; would look great in milled aluminum).
-- **Sub-base / stand** (tilts the macropad to an ergonomic angle).
-- **Connector** (joins the base and the stand).
+- **Top cover** (protects the PCB; acrylic would look great).
+- **Base** (with heat-set insert holes to mount the PCB and top cover).
+- **Side cover** (hides the PCB ; would look great in milled aluminum).
+- **Sub-base / stand** (tilts the macropad at an ergonomic angle).
+- **Connector** (connects the base with the stand).
 
 ## Firmware
 Firmware is written in QMK.
 - Left knob: **push-button only** → Mute/Unmute.
 - Right knob: **rotary encoder** → Volume Up/Down.
-- The 16 keys are mapped to common Windows shortcuts used across multiple programs.
+- The 12 keys are mapped to common Windows shortcuts.
 
 QMK setup help:
-- https://docs.qmk.fm/#/getting_started_build_tools [web:1767]
-- https://docs.qmk.fm/#/getting_started_make_guide [web:1768]
+- https://docs.qmk.fm/#/getting_started_build_tools 
+- https://docs.qmk.fm/#/getting_started_make_guide 
 - https://youtu.be/BcXycScePHM?t=360&si=u64MpJI-V58_fIYx
 
 ## Bill of Materials (BOM)
