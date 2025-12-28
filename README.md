@@ -5,6 +5,8 @@ A compact 4×4 macropad for Windows productivity workflows (Fusion 360, Bambu St
 ## Render
 ![focuspad_v2 render](https://github.com/phyroxyn/focuspad/blob/e32d70f9403c526be76d4f2ef78d0408b3021f45/Assets/Focuspad_render.PNG)
 ![focuspad_v2 side view](https://github.com/phyroxyn/focuspad/blob/c3db5a3a73ed4c919b3456386d061fa25b3f05f7/Assets/Makropad_v1_2025-Dec-28_03-27-13PM-000_CustomizedView38785409704%20(1).png)
+![Render_3Dprinted]
+https://github.com/phyroxyn/focuspad/blob/e108dae6e26f74fba3f6446d6aae65f0df58d01e/Assets/Render_3Dprinted.png
 
 ## PCB
 ### Schematic
