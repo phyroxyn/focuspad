@@ -2,7 +2,8 @@
 
 A compact 4x4 macropad designed for Windows productivity workflows (Fusion 360, Bambu Studio, Adobe Illustrator/Photoshop, DaVinci Resolve) with a two rotary encoder (one works as a button, only there for aestetic reasons ;).
 
-## Renders
+## Render
+![image alt](https://github.com/phyroxyn/focuspad/blob/e32d70f9403c526be76d4f2ef78d0408b3021f45/Assets/Focuspad_render.PNG) 
 
 ## PCB
 ### Schematic
