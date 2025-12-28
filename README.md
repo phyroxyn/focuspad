@@ -43,5 +43,6 @@ QMK setup help:
 |(3D printed parts) | 5|Black Petg/ aluminium & plexiglas|
 | M3 heat-set inserts (M3×5×4) | 4 | Case mounting |
 | M3 screws | 4 | Case mounting |
+|PCB|1|Black PCB(Solder mask)|
 
 
