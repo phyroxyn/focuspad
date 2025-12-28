@@ -40,7 +40,7 @@ QMK setup help:
 | Rotary encoder (EC11)(w. **push putton**) | 2 | Right&left knob (rotary) |
 | Diodes (1N4148, through-hole) | 13 | For matrix and left encoder|
 | Rotary encoder caps|2|Cool locking and **black**|
-|(3D printed parts) | 5|Black Petg/ aluminium & Plexiglas|
+|(3D printed parts) | 5|Black Petg/ aluminium & plexiglas|
 | M3 heat-set inserts (M3×5×4) | 4 | Case mounting |
 | M3 screws | 4 | Case mounting |
 
