@@ -35,9 +35,9 @@ QMK setup help:
 | Item | Qty | Notes / Part |
 |------|-----|--------------|
 | [Seeed Studio XIAO RP2040](https://wiki.seeedstudio.com/XIAO-RP2040/) (through-hole) | 1 | Main MCU |
-| MX-style switches(brown) | 12 | 4×4 grid, corners missing |
+| Choc V2 Switches| 12 | 4×4 grid, corners missing |
 | Keycaps | 12 | [**low profile**, black](https://shop.beekeeb.com/products/smolo-low-profile-keycap) |
-| Rotary encoder (EC11)(w. **push putton**) | 2 | Right&left knob (rotary) |
+| Rotary encoder (EC11, 15mm)(w. **push putton**) | 2 | Right&left knob (rotary) |
 | Diodes (1N4148, through-hole) | 13 | For matrix and left encoder|
 | Rotary encoder caps|2|Cool locking and **black**|
 |(3D printed parts) | 5|Black Petg/ aluminium & plexiglas|
